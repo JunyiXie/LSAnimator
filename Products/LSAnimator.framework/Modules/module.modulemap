@@ -1,0 +1,6 @@
+framework module LSAnimator {
+  umbrella header "LSAnimator.h"
+
+  export *
+  module * { export * }
+}

@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "LSAnimator.h"
+#import <LSAnimator/LSAnimator.h>
 
 @interface ViewController ()
 

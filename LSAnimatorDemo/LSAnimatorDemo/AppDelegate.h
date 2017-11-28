@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  LSAnimatorDemo
 //
-//  Created by Lision on 2017/5/3.
-//  Copyright © 2017年 Lision. All rights reserved.
+//  Created by JunyiXie on 2017/11/28.
+//  Copyright © 2017年 JunyiXie. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
